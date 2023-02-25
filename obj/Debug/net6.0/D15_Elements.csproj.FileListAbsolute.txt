@@ -1,0 +1,15 @@
+C:\Users\brian\source\repos\D15_Elements\bin\Debug\net6.0\D15_Elements.exe
+C:\Users\brian\source\repos\D15_Elements\bin\Debug\net6.0\D15_Elements.deps.json
+C:\Users\brian\source\repos\D15_Elements\bin\Debug\net6.0\D15_Elements.runtimeconfig.json
+C:\Users\brian\source\repos\D15_Elements\bin\Debug\net6.0\D15_Elements.dll
+C:\Users\brian\source\repos\D15_Elements\bin\Debug\net6.0\D15_Elements.pdb
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.AssemblyInfo.cs
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.dll
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\refint\D15_Elements.dll
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.pdb
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\D15_Elements.genruntimeconfig.cache
+C:\Users\brian\source\repos\D15_Elements\obj\Debug\net6.0\ref\D15_Elements.dll
