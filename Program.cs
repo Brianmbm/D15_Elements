@@ -44,6 +44,12 @@ namespace D15_Elements
             foreach (Element E in elementArr)
                 E.Print();
 
+            Console.WriteLine("Uppgift 6");
+            Console.WriteLine("===================================");
+            foreach (Element E in elementArr)
+                if (E.type == "metal")
+                    Console.WriteLine(E.name);
+
             Console.ReadLine();
 
 
