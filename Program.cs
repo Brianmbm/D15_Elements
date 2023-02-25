@@ -50,6 +50,14 @@ namespace D15_Elements
                 if (E.type == "metal")
                     Console.WriteLine(E.name);
 
+            Console.WriteLine("Uppgift 7");
+            Console.WriteLine("===================================");
+
+            foreach (Element E in elementArr)
+                if (E.meltingPoint < 273.16 && E.boilingPoint > 273.16)
+                    Console.WriteLine(E.name);
+
+
             Console.ReadLine();
 
 
