@@ -13,10 +13,12 @@ namespace D15_Elements
 
             public void Print() 
             {
-                Console.WriteLine($"Element:{name}");
+
+                Console.WriteLine($"   Element:{name}");
                 Console.WriteLine($"Type:{type}");
                 Console.WriteLine($"Melting point:{meltingPoint}");
                 Console.WriteLine($"Boiling point: {boilingPoint}");
+                Console.WriteLine("========");
 
             }
         }
@@ -27,7 +29,15 @@ namespace D15_Elements
             Element gold = new Element { name = "Gold", Z = 79, type = "metal", meltingPoint = 1337.33, boilingPoint = 3243 };
             oxygen.Print();
             iron.Print();
-            gold.Print();   
+            gold.Print();
+
+            Element[] elementArr = new Element[6] { oxygen, iron, gold, 
+                new Element() {name = "Hydrogen", Z = 1, type = "non-metal", meltingPoint = 13.99, boilingPoint = 20.271 },
+                new Element() {name = "Brom", Z = 35, type = "non-metal", meltingPoint = 265.8, boilingPoint = 332.0 },
+                new Element() {name = "Quicksilver", Z = 80, type = "metal", meltingPoint = 234.3210, boilingPoint = 629.88 } };
+
+            Console.ReadLine();
+
 
         }
     }
